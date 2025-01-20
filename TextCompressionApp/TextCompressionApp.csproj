@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2E1B8A29-27B3-46EC-85F1-A402848F14A5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TextCompressionApp</RootNamespace>
+    <RootNamespace>DataShrinkApp</RootNamespace>
     <AssemblyName>DataShrink</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
