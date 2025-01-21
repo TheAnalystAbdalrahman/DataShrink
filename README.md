@@ -106,7 +106,8 @@ DataShrink/
 ├── MainWindow.xaml.cs     # Main UI logic
 ├── HuffmanCoding.cs      # Huffman algorithm implementation
 ├── RunLengthEncoding.cs  # RLE algorithm implementation
-└── Properties/           # Application properties
+└── screenshots/           # Application Screenshots
+└── Test files/           # Application Test Files
 ```
 
 ## Contributing
